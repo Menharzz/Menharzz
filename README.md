@@ -2,6 +2,12 @@
 
 I'm learning to become a software engineer.
 
-## What I'm up to
-- Studying programming and software development
-- Working on small projects to practice what I learn
+## What I'm learning
+- Java
+- Python
+- Slowly getting into CSS
+
+## Fun facts
+- I like to ride my bike 🚲
+- I enjoy reading 📚
+- I game in my free time 🎮
